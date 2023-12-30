@@ -21,6 +21,7 @@ function App() {
     "anselma hamil",
     "bapak ku garena",
     "gausa sok keren, lu bukan gwe",
+    "tahun baru, anak baru hehehe"
   ]);
   const particlesInit = async (engine) => {
     await loadFireworksPreset(engine);
